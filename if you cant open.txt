@@ -1,0 +1,6 @@
+write this in cmd
+
+1- `pip uninstall discord -y`
+2- `pip uninstall discord.py -y`
+3- `pip install discord.py`
+4- `pip install pytz`
